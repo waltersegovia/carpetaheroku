@@ -1,3 +1,3 @@
 <?php
-echo "Hola Ej2";
+echo "Hola Ej2"; 
 ?>
